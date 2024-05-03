@@ -29,6 +29,18 @@ body{
     padding: 10px
 }
 
+.card {
+    border-radius: 30px;
+    background: #8985b4;
+    box-shadow: 15px 15px 30px #bebebe,
+               -15px -15px 30px #ffffff;
+    margin: 20px auto;
+}
+
+a {
+    color: inherit;
+}
+
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
@@ -37,7 +49,9 @@ body{
 }
 
 nav {
-    background-color: #b79494;
+    background-color: #7964a0;
+    z-index: 5;
+    position: relative;
 }
 
 nav ul {
@@ -66,7 +80,8 @@ nav a:hover {
 }
 
 a.active {
-    background-color: #04AA6D;
+    border-radius: 10px 10px 0 0;
+    background-color: #8985b4;
     color: white;
 }
 
@@ -75,13 +90,15 @@ a.active {
 }
 
 .intro{
-    border-bottom: 5px solid red;
+    border-bottom: 5px solid #692b66;
     border-radius: 0 0 50px 50px;
     max-width: 80%;
     height: auto;
     display: flex;
     flex-direction: column;
     text-align: center;
+    margin-top: 0;
+    z-index: 1;
 }
 
 div h1~p{
@@ -130,6 +147,7 @@ footer{
 footer ul {
     list-style: none;
     padding: 0;
+    margin: 0;
 }
 
 .social-list {
@@ -183,12 +201,17 @@ table {
     display: inline-block;
 }
 
+caption {
+    background-color: #49444d;
+    color: white;
+}
+
 table, th, td {
     border: 1px solid;
 }
 
 table th {
-    background-color: #b79494; 
+    background-color: #2b1648;
     color: #fff;
 } 
 
@@ -240,7 +263,7 @@ table td, table th {
 }
 
 .container {
-    color: rgb(65 52 52 / 45%);
+    color: #2b164880;
     position: relative;
     background: linear-gradient(0deg, #0d0d0d82 0%, #ffffff 100%);
 }
@@ -333,7 +356,7 @@ table td, table th {
 
 .soon-kamiko {
     border-radius: 20px;
-    box-shadow: 0px 0px 20px 10px rgb(190 49 46);
+    box-shadow: 0px 0px 20px 10px #f0aeee;    ;
     height: 70vh;
     width: auto;
 }
