@@ -272,7 +272,7 @@ table td, table th {
     content: "";
     background-color: #000000;
     position: absolute;
-    background-image: url(..assets/images/rekainokamigamilogo.jpg);
+    background-image: url(../images/rekainokamigamilogo.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

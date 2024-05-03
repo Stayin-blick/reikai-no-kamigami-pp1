@@ -35,7 +35,7 @@ users of the website will be able to find all the information they need, ways to
 - Store
   - teases to users that theres an online shop comming soon
 
-![website screenshots](assets/images/readme-img/indexsc1.png)(assets/images/readme-img/indexsc2.png)(assets/images/readme-img/indexsc3.png)(assets/images/readme-img/teamsc.png)(assets/images/readme-img/teamsc.png)(assets/images/readme-img/membershipsc.png)(assets/images/readme-img/protectorsc.png)(assets/images/readme-img/storesc.png)
+![website screenshots](assets/images/readme-img/indexsc1.png) (assets/images/readme-img/indexsc2.png) (assets/images/readme-img/indexsc3.png)(assets/images/readme-img/teamsc.png) (assets/images/readme-img/teamsc.png) (assets/images/readme-img/membershipsc.png) (assets/images/readme-img/protectorsc.png) (assets/images/readme-img/storesc.png)
 
 ## Testing
 
@@ -49,7 +49,9 @@ users of the website will be able to find all the information they need, ways to
 
 - when styling the table orginally my layout was (picture below) and that one column wasnt fitting on the page on small devices therefore i changed the layout with the table head on the left and table data displayed to the right instead of underneath
 
-![table styling issue](assets/images/readme-img/bugmphone.png)(assets/images/readme-img/bugmphonespill)
+- issues with absolute links not displaying switched to relative links
+
+![table styling issue](assets/images/readme-img/bugmphone.png) (assets/images/readme-img/bugmphonespill)
 ![bug fixed-change layout](assets/images/readme-img/bugfix.png)
 
 ## Validator Testing
