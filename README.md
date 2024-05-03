@@ -59,7 +59,7 @@ users of the website will be able to find all the information they need, ways to
 - issues with absolute links not displaying switched to relative links
 
 ![table styling issue](assets/images/readme-img/bugmphone.png)
-![table styling issue](assets/images/readme-img/bugmphonespill)
+![table styling issue](assets/images/readme-img/bugmphonespill.png)
 ![bug fixed-change layout](assets/images/readme-img/bugfix.png)
 
 ## Validator Testing
