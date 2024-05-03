@@ -79,7 +79,7 @@ Accessibility
   - from the source section drop-down menu, select master branch
   - Once the master branch has been selcetced, the page provided the link to the completed website
 
-The live link can be found here - (website link)
+The live link can be found here - [depolyed site link](https://stayin-blick.github.io/reikai-no-kamigami-pp1/)
 
 ## Credits
 
