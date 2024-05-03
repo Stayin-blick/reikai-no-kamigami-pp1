@@ -35,6 +35,8 @@ users of the website will be able to find all the information they need, ways to
 - Store
   - teases to users that theres an online shop comming soon
 
+![website screenshots](assets/images/readme-img/indexsc1.png)(assets/images/readme-img/indexsc2.png)(assets/images/readme-img/indexsc3.png)(assets/images/readme-img/teamsc.png)(assets/images/readme-img/teamsc.png)(assets/images/readme-img/membershipsc.png)(assets/images/readme-img/protectorsc.png)(assets/images/readme-img/storesc.png)
+
 ## Testing
 
 - I tested this page on a laptop in google chrome
