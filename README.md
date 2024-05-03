@@ -35,7 +35,14 @@ users of the website will be able to find all the information they need, ways to
 - Store
   - teases to users that theres an online shop comming soon
 
-![website screenshots](assets/images/readme-img/indexsc1.png) (assets/images/readme-img/indexsc2.png) (assets/images/readme-img/indexsc3.png)(assets/images/readme-img/teamsc.png) (assets/images/readme-img/teamsc.png) (assets/images/readme-img/membershipsc.png) (assets/images/readme-img/protectorsc.png) (assets/images/readme-img/storesc.png)
+![website screenshots](assets/images/readme-img/indexsc1.png)
+![website screenshots](assets/images/readme-img/indexsc2.png)
+![website screenshots](assets/images/readme-img/indexsc3.png)
+![website screenshots](assets/images/readme-img/teamsc.png)
+![website screenshots](assets/images/readme-img/teamsc.png)
+![website screenshots](assets/images/readme-img/membershipsc.png)
+![website screenshots](assets/images/readme-img/protectorsc.png)
+![website screenshots](assets/images/readme-img/storesc.png)
 
 ## Testing
 
@@ -51,7 +58,8 @@ users of the website will be able to find all the information they need, ways to
 
 - issues with absolute links not displaying switched to relative links
 
-![table styling issue](assets/images/readme-img/bugmphone.png) (assets/images/readme-img/bugmphonespill)
+![table styling issue](assets/images/readme-img/bugmphone.png)
+![table styling issue](assets/images/readme-img/bugmphonespill)
 ![bug fixed-change layout](assets/images/readme-img/bugfix.png)
 
 ## Validator Testing
