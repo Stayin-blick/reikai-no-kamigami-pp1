@@ -1,11 +1,28 @@
 
 # Reikai no Kamigami
 
-Reikai no kamigami is to inform the members and non-member of the community DAO (decentralized autonomous organization), about the updates revolving the DAO.
+Reikai no Kamigami is your go-to platform for all updates and information related to our community DAO (Decentralized Autonomous Organization). This site serves to inform both members and non-members about the latest developments and opportunities within our DAO.
 
-users of the website will be able to find all the information they need, ways to contact through social media, the members of the team and membership quries. the site is targeted towards those that interact with web3.
+What You Can Find Here:
 
-![am i responsive checker](assets/images/readme-img/amiresponsive.png)
+All the details about our DAO, including its mission, initiatives, and upcoming projects.
+Team and Membership, Learn about the dedicated team behind Reikai no Kamigami and explore membership options that provide exclusive benefits.
+Contact and Social Media, easily connect with us through our social media channels and find answers to your membership queries.
+
+our aim with this DAO is to give the members of the Kami nft more a true place where they can have a say in the way the project is run, such as collaborations in the future but also what products they can buy in the shop.
+
+![am i responsive checker](/documentation/amiresponsive.png)
+
+## Design 
+
+wireframes were created for laptop, tablet and mobile use, as members are likely to interact with the crypto space with any of these devices
+![wireframes](/documentation/pp1-index-sc.jpg)
+![wireframes](/documentation/pp1-index2-sc.jpg)
+![wireframes](/documentation/pp1-team-sc.jpg)
+![wireframes](/documentation/pp1-membership-sc.jpg)
+![wireframes](/documentation/pp1-protectors-sc.jpg)
+![wireframes](/documentation/pp1-store-sc.jpg)
+
 
 ## Features
 
@@ -16,7 +33,7 @@ users of the website will be able to find all the information they need, ways to
 
 - Origin
   - Features kami logo and link to official kami website
-  - Features kami opening video preloaded
+  - Features kami opening video preloaded, controls accesible to the user
 
 - until
   - Reikai no kamigami intro
@@ -35,14 +52,13 @@ users of the website will be able to find all the information they need, ways to
 - Store
   - teases to users that theres an online shop comming soon
 
-![website screenshots](assets/images/readme-img/indexsc1.png)
-![website screenshots](assets/images/readme-img/indexsc2.png)
-![website screenshots](assets/images/readme-img/indexsc3.png)
-![website screenshots](assets/images/readme-img/teamsc.png)
-![website screenshots](assets/images/readme-img/teamsc.png)
-![website screenshots](assets/images/readme-img/membershipsc.png)
-![website screenshots](assets/images/readme-img/protectorsc.png)
-![website screenshots](assets/images/readme-img/storesc.png)
+![website screenshots](/documentation/indexsc1.png)
+![website screenshots](/documentation/indexsc2.png)
+![website screenshots](/documentation/indexsc3.png)
+![website screenshots](/documentation/teamsc.png)
+![website screenshots](/documentation/membershipsc.png)
+![website screenshots](/documentation/protectorsc.png)
+![website screenshots](/documentation/storesc.png)
 
 ## Testing
 
@@ -58,9 +74,9 @@ users of the website will be able to find all the information they need, ways to
 
 - issues with absolute links not displaying switched to relative links
 
-![table styling issue](assets/images/readme-img/bugmphone.png)
-![table styling issue](assets/images/readme-img/bugmphonespill.png)
-![bug fixed-change layout](assets/images/readme-img/bugfix.png)
+![table styling issue](/documentation/bugmphone.png)
+![table styling issue](/documentation/bugmphonespill.png)
+![bug fixed-change layout](/documentation/bugfix.png)
 
 ## Validator Testing
 
@@ -76,7 +92,7 @@ Accessibility
 
 - I confirmed that the colours and fonts are easy to read and accesible by running it through lighthouse in devtools
 
-![lighthouse testing](assets/images/readme-img/lighthouseimg.png)
+![lighthouse testing](/documentation/lighthouseimg.png)
 
 ## Unfixed Bugs
 
