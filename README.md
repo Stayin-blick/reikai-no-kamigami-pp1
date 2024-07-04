@@ -11,7 +11,7 @@ Contact and Social Media, easily connect with us through our social media channe
 
 our aim with this DAO is to give the members of the Kami nft more a true place where they can have a say in the way the project is run, such as collaborations in the future but also what products they can buy in the shop.
 
-![am i responsive checker](/documentation/amiresponsive.png)
+![am i responsive checker](/documentation/am-i-responsive.png)
 
 ## Design 
 
@@ -52,13 +52,13 @@ wireframes were created for laptop, tablet and mobile use, as members are likely
 - Store
   - teases to users that theres an online shop comming soon
 
-![website screenshots](/documentation/indexsc1.png)
-![website screenshots](/documentation/indexsc2.png)
-![website screenshots](/documentation/indexsc3.png)
-![website screenshots](/documentation/teamsc.png)
-![website screenshots](/documentation/membershipsc.png)
-![website screenshots](/documentation/protectorsc.png)
-![website screenshots](/documentation/storesc.png)
+![website screenshots](/documentation/index-sc1.png)
+![website screenshots](/documentation/index-sc2.png)
+![website screenshots](/documentation/index-sc3.png)
+![website screenshots](/documentation/team-sc.png)
+![website screenshots](/documentation/membership-sc.png)
+![website screenshots](/documentation/protector-sc.png)
+![website screenshots](/documentation/store-sc.png)
 
 ## Testing
 
@@ -74,9 +74,9 @@ wireframes were created for laptop, tablet and mobile use, as members are likely
 
 - issues with absolute links not displaying switched to relative links
 
-![table styling issue](/documentation/bugmphone.png)
-![table styling issue](/documentation/bugmphonespill.png)
-![bug fixed-change layout](/documentation/bugfix.png)
+![table styling issue](/documentation/bug-mphone.png)
+![table styling issue](/documentation/bug-mphonespill.png)
+![bug fixed-change layout](/documentation/bug-fix.png)
 
 ## Validator Testing
 
@@ -92,7 +92,7 @@ Accessibility
 
 - I confirmed that the colours and fonts are easy to read and accesible by running it through lighthouse in devtools
 
-![lighthouse testing](/documentation/lighthouseimg.png)
+![lighthouse testing](/documentation/lighthouse-img.png)
 
 ## Unfixed Bugs
 
