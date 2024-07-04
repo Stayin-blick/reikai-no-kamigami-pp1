@@ -107,9 +107,12 @@ Accessibility
 
 The live link can be found here - [depolyed site link](https://stayin-blick.github.io/reikai-no-kamigami-pp1/)
 
-## Credits
+## Improvements
 
-### Media
+- I recognize that some commits in this project are larger than ideal. Moving forward, I will strive to break down changes into smaller, more manageable commits to improve the clarity and maintainability of the project history.
+
+
+## Credits
 
 - thanks to Onik using ai generation to produce kamiko images
 - thanks to each team member for profile pictures
